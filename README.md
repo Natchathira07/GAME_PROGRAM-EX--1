@@ -43,3 +43,12 @@ To implement and demonstrate various material effects in Unreal Engine,including
 
 <img width="494" height="490" alt="Screenshot 2025-11-19 135737" src="https://github.com/user-attachments/assets/4a1ecbbc-d380-4e7d-aa8d-69220803a293" />
 
+## RESULT:
+
+Successfully implemented a material in Unreal Engine showcasing:
+
+● Emissive glow using emissive color and intensity.
+● Variable surface roughness to simulate different textures.
+● Metallic appearance adjustment to reflect light like real-world metals.
+
+This setup enables dynamic, realistic materials suitable for use in environments, characters, and VFX in Unreal Engine projects.
